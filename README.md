@@ -76,6 +76,7 @@ The following highlights occur:
 * t=11 : Customer #3 leaves and register #1 starts servicing Customer #5.
 * t=11 : Customer #4 leaves from register #2.
 * t=13 : Customer #5 leaves from register #1.
+
 Here is the expected command output:
 ```
 C:\\>grocery.exe input.txt
