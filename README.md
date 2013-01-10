@@ -11,7 +11,7 @@ We will also be considering your overall approach to the problem and your progra
 
 1. Source Code
   * The source code should be in C#, in the latest version of .NET.
-  * A Visual Studio (or visual studio express) project file ÎíÎñ please use a console project.
+  * A Visual Studio (or visual studio express) project file - please use a console project.
 1. The executable file which results from the Source Code.
 1. Any other supporting code or other binaries that you used to develop the solution (even if it is not required to run or compile the executable). If a resource is easily accessible on the web you can just provide a link to it rather than including the files.
 
