@@ -3,7 +3,6 @@ syntax: glob
 *.swp
 *.userprefs
 *.obj
-*.exe
 *.pdb
 *.user
 *.aps

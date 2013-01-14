@@ -1,3 +1,7 @@
+## Quick Read
+
+Please [fork, clone, commit and push](https://help.github.com/articles/fork-a-repo) this repository, so we may see your work. For more details on how to do this, read [here](http://lostechies.com/jasonmeridth/2009/06/01/git-for-windows-developers-git-series-part-1)
+
 ## Overview
 You are to write a program to implement a grocery store / cashier line simulation. This program should read input from a file, and print the resulting score to the console. (The program should be a console-only program.) The program should take a single command line parameter, the name of the input file.
 
@@ -8,6 +12,8 @@ One of the most important criteria for a successful solution is that it correctl
 We will also be considering your overall approach to the problem and your programming style. This assignment is an opportunity to show off how you can use your object-oriented analysis and design skills to produce an elegant, readable and maintainable solution. Please do not submit a multi-threaded or real-time solution. Please do use what you would consider best practice in developing your solution.
 
 ## Deliverables (all of the following)
+
+These shall be on your fork of this repository.
 
 1. Source Code
   * The source code should be in C#, in the latest version of .NET.
